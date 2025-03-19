@@ -2,7 +2,7 @@ Thank you for agreeing to label the head and tail images! We truly appreciate yo
 ## Mark Head/Tail
 It's important to consider where to label the fish itself. For the head, please label the farthest point possible on the fish's mouth. The tail point should be labeled at the middle point of the caudal fin. This is what we refer to as the fork length. Below is an image that should help clarify what locations we are interested in for head-tail measurement:
 
-![[ForkLengthExplanation.png| 450]]
+<img src="ForkLengthExplanation.png" alt="Visual Explanation for Fork Length" width="450"> 
 
 As we can see from the lower two diagrams, we are choosing the middle point of the fish's tail. A great way to think of it is what length you'd measure if you placed the fish on a measuring board and wanted the length along the middle section of the fish.
 
@@ -25,6 +25,6 @@ There are a few types of photos you may see, so let's go over all of them!
 ### Modifying Annotations
 To modify existing annotations, use the pane below under 'Regions'. Press on the annotation that corresponds to the annotation you wish to delete (If you only see 'Fork' or 'Snout' instead of the labeled annotations, press the carrot icon).
 
-![[AnnotationLabels.png| 500]]
+<img src="AnnotationLabels.png" alt="Visual Explanation for Fork Length" width="500"> 
 
 Click on one of the annotations themselves (the entries that are numbered) to select it and press the 'Backspace' button on your keyboard to delete them. Pressing either '1' or '2' after selecting an annotation can change the type from 'Snout' to 'Fork' and vice-versa.
